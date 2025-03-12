@@ -350,7 +350,7 @@ boolean: 1 bit, true veya false değer alır.	                         boolean h
 2️⃣ Reference (Referans) Veri Tipleri
 Bunlar nesne tabanlı (Object-Oriented) veri tipleridir. Java’da sınıflar, diziler (arrays) ve özel nesneler bu kategoriye girer.
 
-  Veri Tipi	                                            	   Örnek
+Veri Tipi	                                            	   Örnek
 String:	 Metin ifadeleri için kullanılır.	                String name = "Java";
 Arrays:	 Aynı veri tipinden birden fazla değer saklar.	        int[] numbers = {1, 2, 3};
 Classes: Kendi nesnelerimizi oluşturmak için kullanılır.	Car myCar = new Car();
