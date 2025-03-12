@@ -335,7 +335,7 @@ Java'da veri tipleri ikiye ayrılır:
 1️⃣ Primitive (İlkel) Veri Tipleri
 Bunlar Java’nın hafızada doğrudan sakladığı basit veri tipleridir.
 
-  Veri Tipi		                                                     Örnek
+Veri Tipi		                                                     Örnek
 byte:	 1 byte, -128 ile 127 arasında değer alır.	                 byte a = 100;
 short:	 2 byte, -32,768 ile 32,767 arasında değer alır.	         short b = 30000;
 int:	 4 byte, tam sayılar için kullanılır.	                         int c = 123456;
